@@ -1,5 +1,6 @@
 📘 **1. Opis**
-Projekt: Prosta aplikacja webowa z kilkoma podstronami (Home, O nas, Usługi, Kontakt), używana głównie do testów E2E.
+Projekt: 
+Prosta aplikacja webowa z kilkoma podstronami (Home, O nas, Usługi, Kontakt), używana głównie do testów E2E.
 ----------------------------
 ![image](https://github.com/user-attachments/assets/28181963-338e-4fc6-aefe-3f6d12af98f5)
 
