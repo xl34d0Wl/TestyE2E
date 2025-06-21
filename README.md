@@ -1,25 +1,8 @@
 📘 **1. Opis**
 Projekt: Prosta aplikacja webowa z kilkoma podstronami (Home, O nas, Usługi, Kontakt), używana głównie do testów E2E.
 ----------------------------
-📂 **2. Struktura katalogów**
-my-e2e-app/
-├── public/
-│   ├── index.html        # Strona główna
-│   ├── about.html        # O nas
-│   ├── services.html     # Usługi
-│   ├── contact.html      # Kontakt
-│   ├── styles.css        # Styl aplikacji
-│   ├── script.js         # Skrypty JS
-│   └── background.jpg    # Tło do załadowania i testów
-├── cypress/
-│   └── e2e/
-│       └── app_spec.cy.js  # Testy Cypress
-├── tests/
-│   └── background.spec.js  # Testy Playwright
-├── cypress.config.js
-├── playwright.config.js
-├── package.json
-└── README.md 
+![image](https://github.com/user-attachments/assets/28181963-338e-4fc6-aefe-3f6d12af98f5)
+
 ----------------------------
 🧪 **4. Testy E2E**
 🔹 Cypress
