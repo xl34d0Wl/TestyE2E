@@ -1,0 +1,19 @@
+{
+  "name": "my-e2e-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server public",
+    "cypress": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.53.1",
+    "@types/node": "^24.0.3",
+    "cypress": "^14.5.0",
+    "live-server": "^1.2.2"
+  }
+}

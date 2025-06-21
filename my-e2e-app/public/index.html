@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Strona Główna</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">O nas</a></li>
+        <li><a href="services.html">Usługi</a></li>
+        <li><a href="contact.html">Kontakt</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <h1>Witaj na naszej stronie!</h1>
+    <p>Wyślij formularz na napewno się odezwiemy!</p>
+    <button id="showFormBtn">Pokaż formularz</button>
+    <form id="contactForm" style="display:none;">
+      <input type="text" id="name" placeholder="Imię" required>
+      <input type="email" id="email" placeholder="Email" required>
+      <button type="submit">Wyślij</button>
+    </form>
+  </main>
+  <footer>
+    <p>&copy; 2025 Wariaty SP. ZŁO</p>
+  </footer>
+  <script src="script.js"></script>
+</body>
+</html>
